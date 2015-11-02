@@ -1,0 +1,19 @@
+{
+  "name": "duplicates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplicates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviross/duplicates.git"
+  },
+  "author": "Levi Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviross/duplicates/issues"
+  },
+  "homepage": "https://github.com/leviross/duplicates#readme"
+}
